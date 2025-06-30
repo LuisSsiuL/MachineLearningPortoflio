@@ -74,8 +74,6 @@ Preprocessing: Implemented techniques for cleaning and preparing text data, incl
 
 Extractive Summarization: Explored methods such as TF-IDF or TextRank to identify and extract the most important sentences directly from the original document.
 
-Evaluation Metrics: (If you evaluated your models, mention the metrics used.) Employed metrics like ROUGE (Recall-Oriented Understudy for Gisting Evaluation) to quantitatively assess the quality and coherence of the generated summaries against human-written summaries.
-
 This project demonstrates practical applications of natural language processing (NLP) in the software engineering domain, aiming to streamline information consumption and enhance productivity by automating the summarization of technical content.
 
 # Sentiment Analysis
