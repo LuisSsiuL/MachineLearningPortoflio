@@ -1,6 +1,8 @@
-# MachineLearningPortoflio
+# Machine Learning Portoflio
 
-This is a repository containing my Machine Learning Projects and is a record of my learning progress.
+This is a repository containing my Machine Learning Projects and is a record of my learning progress. I'm a Computer Science Student from Bina Nusantara University with a specialization in AI. This repository showcases my progress in learning machine learning and my past projects from simple ones, to the more advanced ones.
+
+Linkedin Profile: https://www.linkedin.com/in/christian-luis-efendy-53b25a217/
 
 # Linear Regression 
 
